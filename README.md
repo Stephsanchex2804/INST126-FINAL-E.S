@@ -30,6 +30,7 @@ These dependencies include:
 8. After capturing the data of the blog we create a datframe for this information using pandas (pd)
 
 9 . After completing this we would make sure we create a remote repository to run the program and view the results
+10. We capture a histogram of the text length of the writtent data in the blog, we are able to see the data listed in the blog. 
 
 
 
