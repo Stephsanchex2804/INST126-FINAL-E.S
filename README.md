@@ -6,7 +6,10 @@ Mental Health Blog Webscrapping
 
 In this project I utilized a previous blog that I have created in the past. This is a blog that I created that speaks on mental health. 
 specifically in this project I decided to webscrape my blog, performing data analysis while utilizing pandas, and in the end I tried to capture this data by utilizing GIT. 
-
+Requirements: 
+Python 3.11.4
+Beautifulsoup4
+panda library
 Usage:
 
 1. To webscrape this program you begin by navigating the folder of the project. The project folder is called inst126_final_project attempt 
