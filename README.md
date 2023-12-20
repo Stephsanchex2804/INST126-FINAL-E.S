@@ -5,7 +5,7 @@ readme_content
 Mental Health Blog Webscrapping 
 
 In this project I utilized a previous blog that I have created in the past. This is a blog that I created that speaks on mental health. 
-specifically in this project I decided to webscrape my blog, performing data analysis while utilizing pandas, and in the end I tried to capture this data by utilizing GIT. 
+specifically in this project I decided to webscrape my blog, performing data analysis while utilizing pandas, and in the end I tried to capture this data by utilizing GIT. The data was to capture specfic data that coorelates with the blog. To capture the title, the headline, the text length, the different links, and the different posts that are within the blog. Since, I created this blog and haven't viewed it in a while I wanted to access the data and show to others. 
 
 Requirements: 
 - Python 3.11.4
