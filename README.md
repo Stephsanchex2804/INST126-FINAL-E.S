@@ -1,6 +1,6 @@
 # INST126-FINAL-E.S
 #README
-readme_content= """""
+readme_content
 
 Mental Health Blog Webscrapping 
 
@@ -27,4 +27,4 @@ These dependencies include:
 9 . After completing this we would make sure we create a remote repository to run the program and view the results
 
 
-"""""
+
