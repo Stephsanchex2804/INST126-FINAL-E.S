@@ -23,6 +23,7 @@ These dependencies include:
 6. we then continue by trying to get the title of the blog and we use soup.title to capture the title
 7. Additionally, we try to gather the links of the blog and we do this by using link.get and soup.find_all
 8. After capturing the data of the blog we create a datframe for this information using pandas (pd)
+
 9 . After completing this we would make sure we create a remote repository to run the program and view the results
 
 
